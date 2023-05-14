@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I'm Aidan Lonergan
+## Software Developer and Recent CS Graduate at UW-Madison
 
 <!--
 **alonergan/alonergan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
